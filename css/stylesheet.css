@@ -10,7 +10,6 @@ h1{
   margin-bottom: 20px;
   margin-left: 8vw;
   font-family: verdana;
-  text-shadow: 5px 5px 10px #605d5e;
 }
 
 h2{
@@ -48,14 +47,13 @@ ul{
 
 img{
   border: 12px outset pink;
-  align-items: left;
   margin-left: 18vw;
   width: 18vw;
-  margin-bottom: 8vw;
+  margin-bottom: 4vw;
 }
 
 .well{
-  background-color: #a2a3a5;
+  background-color: grey;
 }
 
 .green{
@@ -72,12 +70,18 @@ em{
   padding: 10px;
   background: grey;
   float: left;
+  margin-left: 7.25vw;
+  width: 40vw;
+  text-align: center;
 
 }
 
 .worm h2{
   margin-top: 0px;
+  text-align: center;
+  font-size: 4vw;
 }
+
 
 a{
   color: pink;
@@ -86,6 +90,8 @@ a{
 
 .row{
   float: left;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 @media screen and (max-width: 1000px) and (min-width:700px){
