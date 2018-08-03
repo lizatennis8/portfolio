@@ -1,5 +1,6 @@
 body{
   background-image: url("three.jpg");
+  font-family: sans-serif;
 }
 
 h1{
@@ -8,7 +9,7 @@ h1{
   margin-top: 44px;
   margin-bottom: 20px;
   margin-left: 40px;
-
+  font-family: verdana;
 }
 
 h2{
@@ -17,6 +18,8 @@ h2{
   border: .5px solid white;
   border-left: medium;
   border-right: medium;
+  margin-top: 40px;
+  font-style: oblique;
 }
 
 h3{
