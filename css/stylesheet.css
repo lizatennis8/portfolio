@@ -1,0 +1,18 @@
+body{
+  background-image: url("three.jpg");
+}
+
+h1{
+  font-size: 44px;
+  color: white;
+
+}
+
+h2{
+  color: pink;
+}
+
+img{
+  width: 220px;
+
+}
