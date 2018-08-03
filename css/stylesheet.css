@@ -31,6 +31,12 @@ h3{
   text-shadow: 1px 1px 1px black;
 }
 
+p{
+  color: pink;
+  text-align: center;
+  border: .5px solid white;
+}
+
 ol{
   color: pink;
   font-size: 16px;
