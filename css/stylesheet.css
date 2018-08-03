@@ -4,11 +4,11 @@ body{
 }
 
 h1{
-  font-size: 55px;
+  font-size: 7vw;
   color: white;
   margin-top: 44px;
   margin-bottom: 20px;
-  margin-left: 40px;
+  margin-left: 8vw;
   font-family: verdana;
   text-shadow: 5px 5px 10px #605d5e;
 }
@@ -17,11 +17,11 @@ h2{
   color: pink;
   text-align: left;
   border: .5px solid white;
-  border-left: medium;
-  border-right: medium;
   margin-top: 40px;
   font-style: oblique;
   text-shadow: 1px 1px 1px black;
+  border-right: medium;
+  border-left: medium;
 }
 
 h3{
@@ -33,21 +33,25 @@ h3{
 }
 
 ol{
-  color: white;
+  color: pink;
   font-size: 16px;
   padding: 16px;
+  text-align: center;
+  line-height: 32px;
 }
 
 ul{
   color: pink;
   font-size: 16px;
+  font-size: 1.25vw;
 }
 
 img{
-  width: 250px;
   border: 12px outset pink;
   align-items: left;
-  margin-left: 60px;
+  margin-left: 18vw;
+  width: 18vw;
+  margin-bottom: 8vw;
 }
 
 .well{
@@ -64,12 +68,10 @@ em{
 }
 
 .worm{
-  float:right;
-  margin-top: 30px;
-  margin-left: 0px;
   border: 2px solid white;
   padding: 10px;
   background: grey;
+  float: left;
 
 }
 
@@ -78,16 +80,21 @@ em{
 }
 
 a{
-  color: white;
+  color: pink;
+  font-size: 16px;
 }
 
-@media screen and (max-width: 700px){
-  .collumn{
-    width: 100px;
-    float:left;
-    padding: 10px;
-    border: 4px solid pink;
-    margin: 10px;
-    background-color: #fbf7fc;
-    height: 820px;
+.row{
+  float: left;
+}
+
+@media screen and (max-width: 1000px) and (min-width:700px){
+  .col-md-4{
+    width: 200px;
+    float: left;
   }
+
+@media screen and (max-width: 600px){
+  .col-md-4{
+      width: 200px;
+    }
