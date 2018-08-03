@@ -14,6 +14,9 @@ h1{
 h2{
   color: pink;
   text-align: left;
+  border: .5px solid white;
+  border-left: medium;
+  border-right: medium;
 }
 
 h3{
@@ -36,7 +39,7 @@ ul{
 
 img{
   width: 200px;
-  border: 4px solid pink;
+  border: 12px outset pink;
   align-items: left;
   margin-left: 60px;
 }
@@ -46,7 +49,7 @@ img{
 }
 
 .green{
-  color: #385941;
+  color: #c92469;
   font-style: italic;
 }
 
