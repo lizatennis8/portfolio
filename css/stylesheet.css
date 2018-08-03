@@ -5,11 +5,15 @@ body{
 h1{
   font-size: 44px;
   color: white;
+  margin-top: 44px;
+  margin-bottom: 20px;
+  margin-left: 40px;
 
 }
 
 h2{
   color: pink;
+  text-align: left;
 }
 
 h3{
@@ -22,6 +26,7 @@ h3{
 ol{
   color: white;
   font-size: 16px;
+  padding: 16px;
 }
 
 ul{
@@ -32,6 +37,8 @@ ul{
 img{
   width: 200px;
   border: 4px solid pink;
+  align-items: left;
+  margin-left: 60px;
 }
 
 .well{
