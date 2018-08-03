@@ -32,9 +32,9 @@ h3{
 }
 
 p{
-  color: pink;
+  color: white;
   text-align: center;
-  border: .5px solid white;
+  border: .5px outset white;
 }
 
 ol{
@@ -89,8 +89,9 @@ em{
 }
 
 
+
 a{
-  color: pink;
+  color: white;
   font-size: 16px;
 }
 
@@ -117,3 +118,9 @@ a{
   .col-md-4{
       width: 200px;
     }
+
+.cherry span{
+  color: black;
+  text-align: center;
+  margin-top; 2px;
+}
