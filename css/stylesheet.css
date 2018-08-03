@@ -8,7 +8,7 @@ h1{
   color: white;
   margin-top: 44px;
   margin-bottom: 20px;
-  margin-left: 8vw;
+  margin-left: 25vw;
   font-family: verdana;
 }
 
@@ -47,7 +47,7 @@ ul{
 
 img{
   border: 12px outset pink;
-  margin-left: 18vw;
+  margin-left: 35vw;
   width: 18vw;
   margin-bottom: 4vw;
 }
@@ -70,7 +70,7 @@ em{
   padding: 10px;
   background: grey;
   float: left;
-  margin-left: 7.25vw;
+  margin-left: 25vw;
   width: 40vw;
   text-align: center;
 
@@ -87,6 +87,13 @@ a{
   color: pink;
   font-size: 16px;
 }
+
+
+.aboutme{
+  margin-left: 36px;
+  margin-right: 36px;
+}
+
 
 .row{
   float: left;
