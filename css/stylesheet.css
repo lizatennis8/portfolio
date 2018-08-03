@@ -32,10 +32,14 @@ img{
 }
 
 .well{
-  background-color: grey;
+  background-color: #a2a3a5;
 }
 
 .green{
   color: #385941;
   font-style: italic;
+}
+
+em{
+  color: white;
 }
