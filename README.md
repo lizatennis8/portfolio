@@ -13,7 +13,7 @@ _This program highlights Liza's recent programming work and provides a glimpse i
 * _Turn on your computer_
 * _Make yourself comfortable_
 * _Open your web browser_
-* _Find and click on the link to this application_
+* _Use this link https://github.com/lizatennis8/portfolio.git to open the application_
 * _Sit back and enjoy_
 
 _This program is best experienced in a comfortable chair with a glass of wine in hand_
