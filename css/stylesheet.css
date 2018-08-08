@@ -1,15 +1,12 @@
 body{
   background-image: url("three.jpg");
-  font-family: sans-serif;
 }
 
 h1{
-  font-size: 7vw;
+  font-size: 12vw;
   color: white;
-  margin-top: 44px;
-  margin-bottom: 20px;
-  margin-left: 25vw;
-  font-family: verdana;
+  font-family: 'Ranga', cursive;
+  text-align: center;
 }
 
 h2{
@@ -17,7 +14,7 @@ h2{
   text-align: left;
   border: .5px solid white;
   margin-top: 40px;
-  font-style: oblique;
+  font-family: 'Ranga', cursive;
   border-right: medium;
   border-left: medium;
 }
@@ -49,10 +46,12 @@ ul{
   font-size: 1.25vw;
 }
 
-img{
-  border: 12px outset pink;
-  margin-left: 35vw;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 18vw;
+  border: 12px outset pink;
   margin-bottom: 4vw;
 }
 
